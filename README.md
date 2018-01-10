@@ -10,7 +10,7 @@ scripts内のpub_cal.pyがパブリッシャ、sub_cal.pyがサブスクライ�
 
 使用方法
 
-・先にhttps://github.com/IS4444/raspi_led_device_driverのデバイスドライバをinsmodする。
+・https://github.com/IS4444/raspi_led_device_driverのデバイスドライバを使用する。
 
 ・roscoreする。
 
@@ -23,3 +23,4 @@ scripts内のpub_cal.pyがパブリッシャ、sub_cal.pyがサブスクライ�
 ・正解の場合GPIO22に挿したLEDが点灯し、不正解の場合はGPIO23に挿したLEDが点灯する。sub_cal.pyが終了した場合LEDが消灯します。
 
 ※pub_cal.pyにEnterキーか数字以外を入力するとノードが終了するようにしています。
+
