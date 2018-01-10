@@ -10,7 +10,7 @@ scripts内のpub_cal.pyがパブリッシャ、sub_cal.pyがサブスクライ�
 
 使用方法
 
-・https://github.com/IS4444/raspi_led_device_driverのデバイスドライバを使用する。
+・https://github.com/IS4444/raspi_led_device_driver のデバイスドライバを使用する。
 
 ・roscoreする。
 
