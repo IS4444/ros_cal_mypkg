@@ -24,3 +24,4 @@ scripts内のpub_cal.pyがパブリッシャ、sub_cal.pyがサブスクライ�
 
 ※pub_cal.pyにEnterキーか数字以外を入力するとノードが終了するようにしています。
 
+使用例: https://youtu.be/ROZBDmKZNVA
