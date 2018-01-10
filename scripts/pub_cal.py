@@ -19,5 +19,6 @@ if __name__ == "__main__":
             elif n != (a + b):
                 pub.publish(2)
         else:
+            pub.publish(0)
             break
 
